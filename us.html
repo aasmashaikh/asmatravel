@@ -24,7 +24,7 @@
             <p>&bull; Travel Planning &nbsp;&bull;&nbsp; Dream Trip &nbsp;&bull;&nbsp;Travel Safely  </p>
             <nav>
                 <ul>
-                    <li> <a href="dabhi.html" class="icon "> Homme </a></li>
+                    <li> <a href="index.php" class="icon "> Homme </a></li>
                     <li> <a href="about.html" class="icon ">About Us </a></li>
                     <li> <a href="place.html" class="icon ">Trip Place</a></li>
                     <li> <a href="" class="icon ">Rate Us</a></li>
